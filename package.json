@@ -1,0 +1,24 @@
+{
+  "name": "homework16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekHub-Frontend-CMS-8/Alex_Beliaev_HW16.git"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeekHub-Frontend-CMS-8/Alex_Beliaev_HW16/issues"
+  },
+  "homepage": "https://github.com/GeekHub-Frontend-CMS-8/Alex_Beliaev_HW16#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
